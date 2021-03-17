@@ -1,0 +1,1 @@
+In this exercise, use the Word class. You should not change the Word class at all. Supply a class WordMeasurer that implements the Measurer interface. The measure method, when applied to a Word object, should return the number of syllables in the word. 
